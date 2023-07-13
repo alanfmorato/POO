@@ -1,6 +1,6 @@
-##Estudo sobre Orientação a Objetos em Python
+#Estudo sobre Orientação a Objetos em Python
 
-## ontexto
+## Contexto
 
 Somos um baco e precisamos criar funcionalidades ao nosso sistema, para isso precisaremos trabalhar com orientação a objetos, vamos começar pelo conceito de dicionários
 
